@@ -1,0 +1,1180 @@
+{
+  "exercises": [
+    {
+      "id": 1,
+      "unit": 6,
+      "category": "Sólidos Geométricos",
+      "question": "A Torre de Madeira: Para construir uma torre de madeira, você usou 50 blocos. Se cada bloco é um cubo, quantos vértices, arestas e faces ele tem?",
+      "type": "multiple",
+      "options": [
+        "8 vértices, 12 arestas, 6 faces",
+        "6 vértices, 10 arestas, 8 faces",
+        "12 vértices, 8 arestas, 6 faces",
+        "8 vértices, 6 arestas, 12 faces"
+      ],
+      "correctAnswer": 0,
+      "points": 10
+    },
+    {
+      "id": 2,
+      "unit": 6,
+      "category": "Sólidos Geométricos",
+      "question": "O Baú Lendário: O baú de tesouro que você encontrou tem o formato de um paralelepípedo. Se você o abrir, qual figura geométrica plana você verá na tampa?",
+      "type": "multiple",
+      "options": [
+        "Triângulo",
+        "Quadrado ou Retângulo",
+        "Círculo",
+        "Pentágono"
+      ],
+      "correctAnswer": 1,
+      "points": 10
+    },
+    {
+      "id": 3,
+      "unit": 6,
+      "category": "Sólidos Geométricos",
+      "question": "O Escudo de Cura: O pote de Poção de Escudo tem o formato de um cilindro. Ele é um poliedro ou um corpo redondo?",
+      "type": "multiple",
+      "options": [
+        "Poliedro",
+        "Corpo redondo",
+        "Nenhum dos dois",
+        "Ambos"
+      ],
+      "correctAnswer": 1,
+      "points": 10
+    },
+    {
+      "id": 4,
+      "unit": 6,
+      "category": "Sólidos Geométricos",
+      "question": "A Pirâmide de Pedra: Você construiu uma rampa em formato de pirâmide de base quadrada. Quantas faces laterais triangulares ela possui?",
+      "type": "multiple",
+      "options": [
+        "2 faces",
+        "3 faces",
+        "4 faces",
+        "5 faces"
+      ],
+      "correctAnswer": 2,
+      "points": 10
+    },
+    {
+      "id": 5,
+      "unit": 6,
+      "category": "Sólidos Geométricos",
+      "question": "A Bola da Tempestade: A tempestade se aproxima em formato de esfera. Quantas faces planas a esfera tem?",
+      "type": "multiple",
+      "options": [
+        "1 face",
+        "2 faces",
+        "0 faces (nenhuma)",
+        "Infinitas faces"
+      ],
+      "correctAnswer": 2,
+      "points": 10
+    },
+    {
+      "id": 6,
+      "unit": 6,
+      "category": "Sólidos Geométricos",
+      "question": "Materiais de Construção: Você tem 10 blocos de madeira (cubos) e 5 blocos de pedra (paralelepípedos). Quantos vértices você tem no total se juntar todos os blocos?",
+      "type": "number",
+      "correctAnswer": 120,
+      "hint": "Cubo tem 8 vértices, paralelepípedo tem 8 vértices",
+      "points": 15
+    },
+    {
+      "id": 7,
+      "unit": 6,
+      "category": "Sólidos Geométricos",
+      "question": "O Cone de Trânsito: Para sinalizar uma área perigosa, você colocou um cone. Se você cortar a base do cone, qual figura plana você obtém?",
+      "type": "multiple",
+      "options": [
+        "Quadrado",
+        "Triângulo",
+        "Círculo",
+        "Retângulo"
+      ],
+      "correctAnswer": 2,
+      "points": 10
+    },
+    {
+      "id": 8,
+      "unit": 6,
+      "category": "Sólidos Geométricos",
+      "question": "Identificação Rápida: Qual sólido geométrico se parece com um dado?",
+      "type": "multiple",
+      "options": [
+        "Esfera",
+        "Cilindro",
+        "Cubo",
+        "Cone"
+      ],
+      "correctAnswer": 2,
+      "points": 10
+    },
+    {
+      "id": 9,
+      "unit": 6,
+      "category": "Figuras Planas",
+      "question": "O Telhado da Casa: O telhado de uma casa no Salty Springs tem o formato de um triângulo. Quantos lados e quantos vértices ele tem?",
+      "type": "multiple",
+      "options": [
+        "2 lados e 2 vértices",
+        "3 lados e 3 vértices",
+        "4 lados e 4 vértices",
+        "5 lados e 5 vértices"
+      ],
+      "correctAnswer": 1,
+      "points": 10
+    },
+    {
+      "id": 10,
+      "unit": 6,
+      "category": "Figuras Planas",
+      "question": "O Chão da Base: O chão de sua base é um quadrado perfeito. Se você dividir esse quadrado ao meio com uma linha reta, quantos lados tem cada figura resultante?",
+      "type": "multiple",
+      "options": [
+        "3 lados (triângulo)",
+        "4 lados (retângulo)",
+        "5 lados (pentágono)",
+        "6 lados (hexágono)"
+      ],
+      "correctAnswer": 1,
+      "points": 10
+    },
+    {
+      "id": 11,
+      "unit": 6,
+      "category": "Figuras Planas",
+      "question": "O Círculo da Zona Segura: A zona segura final é um círculo. Se você andar exatamente no contorno do círculo, qual é o nome dessa linha?",
+      "type": "multiple",
+      "options": [
+        "Diâmetro",
+        "Raio",
+        "Circunferência",
+        "Arco"
+      ],
+      "correctAnswer": 2,
+      "points": 10
+    },
+    {
+      "id": 12,
+      "unit": 6,
+      "category": "Vistas",
+      "question": "Vista Superior da Torre: Se você olhar sua torre (cubo) de cima, qual figura plana você verá?",
+      "type": "multiple",
+      "options": [
+        "Triângulo",
+        "Quadrado",
+        "Círculo",
+        "Retângulo"
+      ],
+      "correctAnswer": 1,
+      "points": 10
+    },
+    {
+      "id": 13,
+      "unit": 6,
+      "category": "Vistas",
+      "question": "Vista Frontal da Parede: Você construiu uma parede (paralelepípedo) e a olhou de frente. Qual figura plana você viu?",
+      "type": "multiple",
+      "options": [
+        "Triângulo",
+        "Quadrado",
+        "Retângulo",
+        "Círculo"
+      ],
+      "correctAnswer": 2,
+      "points": 10
+    },
+    {
+      "id": 14,
+      "unit": 6,
+      "category": "Figuras Planas",
+      "question": "O Loteamento: O mapa do jogo é dividido em grandes retângulos. Se um retângulo tem 4 lados, e 2 lados são maiores que os outros 2, quantos lados têm o mesmo comprimento?",
+      "type": "multiple",
+      "options": [
+        "1 lado",
+        "2 lados",
+        "3 lados",
+        "4 lados"
+      ],
+      "correctAnswer": 1,
+      "points": 10
+    },
+    {
+      "id": 15,
+      "unit": 6,
+      "category": "Figuras Planas",
+      "question": "O Caminho: Você andou em linha reta, virou 90 graus, andou em linha reta, virou 90 graus, andou em linha reta e virou 90 graus. Qual figura geométrica você desenhou no chão?",
+      "type": "multiple",
+      "options": [
+        "Triângulo",
+        "Quadrado",
+        "Retângulo",
+        "Pentágono"
+      ],
+      "correctAnswer": 2,
+      "points": 10
+    },
+    {
+      "id": 16,
+      "unit": 6,
+      "category": "Simetria",
+      "question": "A Skin Simétrica: A skin do Skull Trooper é simétrica? Desenhe uma linha imaginária no meio para verificar.",
+      "type": "multiple",
+      "options": [
+        "Sim, é completamente simétrica",
+        "Não, é assimétrica",
+        "Parcialmente simétrica",
+        "Impossível determinar"
+      ],
+      "correctAnswer": 0,
+      "points": 10
+    },
+    {
+      "id": 17,
+      "unit": 6,
+      "category": "Simetria",
+      "question": "Linha de Simetria: Desenhe um quadrado e trace todas as suas linhas de simetria. Quantas são?",
+      "type": "multiple",
+      "options": [
+        "1 linha",
+        "2 linhas",
+        "3 linhas",
+        "4 linhas"
+      ],
+      "correctAnswer": 3,
+      "points": 10
+    },
+    {
+      "id": 18,
+      "unit": 6,
+      "category": "Simetria",
+      "question": "O Logo do Fortnite: O logo do Fortnite (se simplificado para um retângulo) tem quantas linhas de simetria?",
+      "type": "multiple",
+      "options": [
+        "0 linhas",
+        "1 linha",
+        "2 linhas",
+        "3 linhas"
+      ],
+      "correctAnswer": 2,
+      "points": 10
+    },
+    {
+      "id": 19,
+      "unit": 6,
+      "category": "Simetria",
+      "question": "Simetria na Construção: Se você construir uma parede e colocar uma janela exatamente no centro, a parede com a janela é simétrica?",
+      "type": "multiple",
+      "options": [
+        "Sim",
+        "Não",
+        "Depende do tamanho da janela",
+        "Impossível determinar"
+      ],
+      "correctAnswer": 0,
+      "points": 10
+    },
+    {
+      "id": 20,
+      "unit": 6,
+      "category": "Simetria",
+      "question": "O Triângulo Isósceles: Um triângulo que tem dois lados iguais (rampa de construção) tem quantas linhas de simetria?",
+      "type": "multiple",
+      "options": [
+        "0 linhas",
+        "1 linha",
+        "2 linhas",
+        "3 linhas"
+      ],
+      "correctAnswer": 1,
+      "points": 10
+    },
+    {
+      "id": 21,
+      "unit": 7,
+      "category": "Multiplicação - Adição de Parcelas Iguais",
+      "question": "Coleta de Madeira: Você coletou 5 pilhas de madeira, e cada pilha tem 12 unidades. Quantas unidades de madeira você tem no total?",
+      "type": "number",
+      "correctAnswer": 60,
+      "hint": "5 x 12 = ?",
+      "points": 15
+    },
+    {
+      "id": 22,
+      "unit": 7,
+      "category": "Multiplicação - Adição de Parcelas Iguais",
+      "question": "Disposição Retangular: Sua equipe construiu uma parede de tijolos com 8 linhas e 7 colunas. Quantos tijolos foram usados na parede?",
+      "type": "number",
+      "correctAnswer": 56,
+      "hint": "8 x 7 = ?",
+      "points": 15
+    },
+    {
+      "id": 23,
+      "unit": 7,
+      "category": "Multiplicação - Adição de Parcelas Iguais",
+      "question": "Multiplicação de Escudos: Você tem 6 mini-escudos, e cada um cura 25 pontos de escudo. Quantos pontos de escudo você pode recuperar no total?",
+      "type": "number",
+      "correctAnswer": 150,
+      "hint": "6 x 25 = ?",
+      "points": 15
+    },
+    {
+      "id": 24,
+      "unit": 7,
+      "category": "Multiplicação por 10, 100, 1000",
+      "question": "V-Bucks: Você comprou 3 pacotes de V-Bucks, e cada pacote continha 1000 V-Bucks. Quantos V-Bucks você tem agora?",
+      "type": "number",
+      "correctAnswer": 3000,
+      "hint": "3 x 1000 = ?",
+      "points": 15
+    },
+    {
+      "id": 25,
+      "unit": 7,
+      "category": "Multiplicação - Adição de Parcelas Iguais",
+      "question": "Multiplicação de Armas: Você tem 4 caixas de munição, e cada caixa contém 30 balas. Quantas balas você tem no total?",
+      "type": "number",
+      "correctAnswer": 120,
+      "hint": "4 x 30 = ?",
+      "points": 15
+    },
+    {
+      "id": 26,
+      "unit": 7,
+      "category": "Multiplicação - Adição de Parcelas Iguais",
+      "question": "O Esquadrão: Seu esquadrão tem 4 jogadores. Se cada jogador coletou 90 de metal, quanto metal o esquadrão coletou no total?",
+      "type": "number",
+      "correctAnswer": 360,
+      "hint": "4 x 90 = ?",
+      "points": 15
+    },
+    {
+      "id": 27,
+      "unit": 7,
+      "category": "Multiplicação - Adição de Parcelas Iguais",
+      "question": "Adição Repetida: O que é o mesmo que calcular 4 + 4 + 4 + 4 + 4? Escreva como uma multiplicação.",
+      "type": "multiple",
+      "options": [
+        "4 x 4",
+        "5 x 4",
+        "4 x 5",
+        "6 x 4"
+      ],
+      "correctAnswer": 2,
+      "points": 10
+    },
+    {
+      "id": 28,
+      "unit": 7,
+      "category": "Multiplicação - Adição de Parcelas Iguais",
+      "question": "O Custo da Skin: Uma skin rara custa 1500 V-Bucks. Se 5 amigos querem comprar essa skin, quantos V-Bucks eles precisam juntar no total?",
+      "type": "number",
+      "correctAnswer": 7500,
+      "hint": "1500 x 5 = ?",
+      "points": 15
+    },
+    {
+      "id": 29,
+      "unit": 7,
+      "category": "Multiplicação por 10, 100, 1000",
+      "question": "Recursos Rápidos: Você coletou 10 vezes mais pedra do que madeira. Se você tem 45 de madeira, quanto de pedra você tem?",
+      "type": "number",
+      "correctAnswer": 450,
+      "hint": "45 x 10 = ?",
+      "points": 15
+    },
+    {
+      "id": 30,
+      "unit": 7,
+      "category": "Multiplicação por 10, 100, 1000",
+      "question": "Multiplicando V-Bucks: Se você ganhar 100 V-Bucks por dia durante 7 dias, quantos V-Bucks você terá no total?",
+      "type": "number",
+      "correctAnswer": 700,
+      "hint": "7 x 100 = ?",
+      "points": 15
+    },
+    {
+      "id": 31,
+      "unit": 7,
+      "category": "Multiplicação por 10, 100, 1000",
+      "question": "O Salto do Ônibus: O ônibus de batalha voa a 1000 metros de altura. Se ele voar 6 vezes essa distância, qual será a distância total percorrida?",
+      "type": "number",
+      "correctAnswer": 6000,
+      "hint": "6 x 1000 = ?",
+      "points": 15
+    },
+    {
+      "id": 32,
+      "unit": 7,
+      "category": "Multiplicação por 10, 100, 1000",
+      "question": "Zero à Direita: Qual é o resultado de 8 x 100?",
+      "type": "number",
+      "correctAnswer": 800,
+      "points": 10
+    },
+    {
+      "id": 33,
+      "unit": 7,
+      "category": "Multiplicação por 10, 100, 1000",
+      "question": "O Poder do 10: Qual é o resultado de 15 x 10?",
+      "type": "number",
+      "correctAnswer": 150,
+      "points": 10
+    },
+    {
+      "id": 34,
+      "unit": 7,
+      "category": "Multiplicação por 10, 100, 1000",
+      "question": "O Grande Número: Qual é o resultado de 2 x 1000?",
+      "type": "number",
+      "correctAnswer": 2000,
+      "points": 10
+    },
+    {
+      "id": 35,
+      "unit": 7,
+      "category": "Multiplicação por 10, 100, 1000",
+      "question": "Desafio Inverso: Se o resultado de uma multiplicação é 3200, e um dos fatores é 100, qual é o outro fator?",
+      "type": "number",
+      "correctAnswer": 32,
+      "hint": "? x 100 = 3200",
+      "points": 15
+    },
+    {
+      "id": 36,
+      "unit": 7,
+      "category": "Multiplicação por 10, 100, 1000",
+      "question": "Padrão: Complete a sequência: 5, 50, 500, _____",
+      "type": "number",
+      "correctAnswer": 5000,
+      "points": 15
+    },
+    {
+      "id": 37,
+      "unit": 7,
+      "category": "Multiplicação por 10, 100, 1000",
+      "question": "A Loja: Um item na loja custa 80 V-Bucks. Se você comprar 10 desses itens, quanto gastará?",
+      "type": "number",
+      "correctAnswer": 800,
+      "hint": "80 x 10 = ?",
+      "points": 15
+    },
+    {
+      "id": 38,
+      "unit": 7,
+      "category": "Algoritmo da Multiplicação",
+      "question": "Multiplicação de Dano: Sua arma causa 35 de dano por tiro. Se você acertar 4 tiros, qual é o dano total?",
+      "type": "number",
+      "correctAnswer": 140,
+      "hint": "35 x 4 = ?",
+      "points": 15
+    },
+    {
+      "id": 39,
+      "unit": 7,
+      "category": "Algoritmo da Multiplicação",
+      "question": "Construção Complexa: Você precisa de 125 de madeira para uma parte da base e 3 vezes essa quantidade para outra parte. De quanta madeira você precisa para a segunda parte?",
+      "type": "number",
+      "correctAnswer": 375,
+      "hint": "125 x 3 = ?",
+      "points": 15
+    },
+    {
+      "id": 40,
+      "unit": 7,
+      "category": "Algoritmo da Multiplicação",
+      "question": "Multiplicação com Reagrupamento: Calcule: 56 x 5 = ?",
+      "type": "number",
+      "correctAnswer": 280,
+      "points": 15
+    },
+    {
+      "id": 41,
+      "unit": 7,
+      "category": "Algoritmo da Multiplicação",
+      "question": "Multiplicação de Três Dígitos: Calcule: 205 x 4 = ?",
+      "type": "number",
+      "correctAnswer": 820,
+      "points": 15
+    },
+    {
+      "id": 42,
+      "unit": 7,
+      "category": "Algoritmo da Multiplicação",
+      "question": "O Tesouro: Um mapa do tesouro indica que há 4 caixas, e cada uma contém 132 barras de ouro. Quantas barras de ouro você tem no total?",
+      "type": "number",
+      "correctAnswer": 528,
+      "hint": "132 x 4 = ?",
+      "points": 15
+    },
+    {
+      "id": 43,
+      "unit": 7,
+      "category": "Algoritmo da Multiplicação",
+      "question": "Multiplicação por Dois Dígitos (Simples): Calcule: 21 x 11 = ?",
+      "type": "number",
+      "correctAnswer": 231,
+      "points": 15
+    },
+    {
+      "id": 44,
+      "unit": 7,
+      "category": "Algoritmo da Multiplicação",
+      "question": "O Desafio da Tabuada: Qual é o resultado de 9 x 8?",
+      "type": "number",
+      "correctAnswer": 72,
+      "points": 10
+    },
+    {
+      "id": 45,
+      "unit": 7,
+      "category": "Algoritmo da Multiplicação",
+      "question": "O Ponto de Coleta: Em um ponto de coleta, você pode conseguir 240 de metal. Se você visitar 3 pontos, quanto metal terá?",
+      "type": "number",
+      "correctAnswer": 720,
+      "hint": "240 x 3 = ?",
+      "points": 15
+    },
+    {
+      "id": 46,
+      "unit": 8,
+      "category": "Divisão - Repartir Igualmente",
+      "question": "Repartir Igualmente (Loot): Você encontrou 80 balas de espingarda e precisa dividir igualmente entre os 4 membros do seu esquadrão. Quantas balas cada um recebe?",
+      "type": "number",
+      "correctAnswer": 20,
+      "hint": "80 ÷ 4 = ?",
+      "points": 15
+    },
+    {
+      "id": 47,
+      "unit": 8,
+      "category": "Divisão - Medida",
+      "question": "Divisão por Medida (Poções): Você tem 100 pontos de escudo para curar, e cada mini-escudo cura 25 pontos. Quantos mini-escudos você precisa usar?",
+      "type": "number",
+      "correctAnswer": 4,
+      "hint": "100 ÷ 25 = ?",
+      "points": 15
+    },
+    {
+      "id": 48,
+      "unit": 8,
+      "category": "Divisão - Repartir Igualmente",
+      "question": "Divisão de V-Bucks: Seu pai te deu 500 V-Bucks para dividir com seu irmão. Quanto cada um recebe?",
+      "type": "number",
+      "correctAnswer": 250,
+      "hint": "500 ÷ 2 = ?",
+      "points": 15
+    },
+    {
+      "id": 49,
+      "unit": 8,
+      "category": "Divisão - Repartir Igualmente",
+      "question": "O Desafio da Construção: Você tem 90 de madeira e quer construir 10 paredes. De quanta madeira você precisa para cada parede, se todas usarem a mesma quantidade?",
+      "type": "number",
+      "correctAnswer": 9,
+      "hint": "90 ÷ 10 = ?",
+      "points": 15
+    },
+    {
+      "id": 50,
+      "unit": 8,
+      "category": "Divisão - Medida",
+      "question": "O Círculo da Tempestade: A tempestade diminui 120 metros a cada 3 minutos. Quantos metros ela diminui por minuto?",
+      "type": "number",
+      "correctAnswer": 40,
+      "hint": "120 ÷ 3 = ?",
+      "points": 15
+    },
+    {
+      "id": 51,
+      "unit": 8,
+      "category": "Divisão - Repartir Igualmente",
+      "question": "Grupos de Jogadores: Em um torneio, há 64 jogadores. Se eles forem divididos em grupos de 8, quantos grupos serão formados?",
+      "type": "number",
+      "correctAnswer": 8,
+      "hint": "64 ÷ 8 = ?",
+      "points": 15
+    },
+    {
+      "id": 52,
+      "unit": 8,
+      "category": "Divisão - Repartir Igualmente",
+      "question": "Divisão com Resto (Kits Médicos): Você tem 7 kits médicos e 3 jogadores feridos. Se você der 2 kits para cada um, quantos kits sobram?",
+      "type": "number",
+      "correctAnswer": 1,
+      "hint": "7 - (3 x 2) = ?",
+      "points": 15
+    },
+    {
+      "id": 53,
+      "unit": 8,
+      "category": "Divisão - Repartir Igualmente",
+      "question": "Divisão Inversa: Se 5 x 6 = 30, qual é o resultado de 30 ÷ 5?",
+      "type": "number",
+      "correctAnswer": 6,
+      "points": 10
+    },
+    {
+      "id": 54,
+      "unit": 8,
+      "category": "Divisão - Repartir Igualmente",
+      "question": "O Ponto de Pouso: O mapa tem 100 quadrados. Se você dividir o mapa em 5 grandes zonas, quantos quadrados tem cada zona?",
+      "type": "number",
+      "correctAnswer": 20,
+      "hint": "100 ÷ 5 = ?",
+      "points": 15
+    },
+    {
+      "id": 55,
+      "unit": 8,
+      "category": "Divisão Exata e Não Exata",
+      "question": "Divisão Exata: Você tem 48 barras de ouro. Se você comprar 6 itens que custam o mesmo, qual é o preço de cada item?",
+      "type": "number",
+      "correctAnswer": 8,
+      "hint": "48 ÷ 6 = ?",
+      "points": 15
+    },
+    {
+      "id": 56,
+      "unit": 8,
+      "category": "Divisão Exata e Não Exata",
+      "question": "Divisão Não Exata: Você tem 55 de metal e precisa de 10 de metal para cada rampa. Quantas rampas você pode construir e quanto metal sobra?",
+      "type": "multiple",
+      "options": [
+        "5 rampas e sobra 5 de metal",
+        "5 rampas e sobra 0 de metal",
+        "6 rampas e sobra 5 de metal",
+        "4 rampas e sobra 15 de metal"
+      ],
+      "correctAnswer": 0,
+      "points": 15
+    },
+    {
+      "id": 57,
+      "unit": 8,
+      "category": "Divisão Exata e Não Exata",
+      "question": "O Resto: Qual é o resto da divisão de 17 por 5?",
+      "type": "number",
+      "correctAnswer": 2,
+      "hint": "17 = 5 x 3 + ?",
+      "points": 10
+    },
+    {
+      "id": 58,
+      "unit": 8,
+      "category": "Divisão Exata e Não Exata",
+      "question": "O Número Mínimo: Qual é o menor número que você precisa adicionar a 37 para que ele seja divisível por 4?",
+      "type": "number",
+      "correctAnswer": 3,
+      "hint": "37 + ? = 40 (que é divisível por 4)",
+      "points": 15
+    },
+    {
+      "id": 59,
+      "unit": 8,
+      "category": "Divisão Exata e Não Exata",
+      "question": "Divisão por 2: Você tem 31 caixas de munição. Se você dividir igualmente com seu amigo, quantas caixas cada um recebe e quantas sobram?",
+      "type": "multiple",
+      "options": [
+        "15 caixas cada um e sobra 1",
+        "16 caixas cada um e sobra 0",
+        "15 caixas cada um e sobra 0",
+        "14 caixas cada um e sobra 3"
+      ],
+      "correctAnswer": 0,
+      "points": 15
+    },
+    {
+      "id": 60,
+      "unit": 8,
+      "category": "Divisão Exata e Não Exata",
+      "question": "Verdadeiro ou Falso: A divisão de 20 por 3 é exata?",
+      "type": "multiple",
+      "options": [
+        "Verdadeiro",
+        "Falso"
+      ],
+      "correctAnswer": 1,
+      "points": 10
+    },
+    {
+      "id": 61,
+      "unit": 8,
+      "category": "Divisão Exata e Não Exata",
+      "question": "O Desafio do Resto: Se você dividir um número por 7 e o resto for 5, qual é o próximo número que você pode dividir por 7 para ter resto 0?",
+      "type": "number",
+      "correctAnswer": 12,
+      "hint": "Se n ÷ 7 = resto 5, então (n + ?) ÷ 7 = resto 0",
+      "points": 15
+    },
+    {
+      "id": 62,
+      "unit": 8,
+      "category": "Divisão Exata e Não Exata",
+      "question": "Divisão por 10: Você tem 135 V-Bucks. Quantos itens de 10 V-Bucks você pode comprar e quantos V-Bucks sobram?",
+      "type": "multiple",
+      "options": [
+        "13 itens e sobram 5 V-Bucks",
+        "13 itens e sobram 0 V-Bucks",
+        "14 itens e sobram 5 V-Bucks",
+        "12 itens e sobram 15 V-Bucks"
+      ],
+      "correctAnswer": 0,
+      "points": 15
+    },
+    {
+      "id": 63,
+      "unit": 8,
+      "category": "Algoritmo da Divisão",
+      "question": "Divisão Longa (Simples): Calcule: 124 ÷ 4 = ?",
+      "type": "number",
+      "correctAnswer": 31,
+      "points": 15
+    },
+    {
+      "id": 64,
+      "unit": 8,
+      "category": "Algoritmo da Divisão",
+      "question": "Divisão com Zero no Quociente: Calcule: 306 ÷ 3 = ?",
+      "type": "number",
+      "correctAnswer": 102,
+      "points": 15
+    },
+    {
+      "id": 65,
+      "unit": 8,
+      "category": "Algoritmo da Divisão",
+      "question": "O Grande Loot: Você encontrou 450 de madeira e precisa dividir entre 5 jogadores. Quanto cada um recebe?",
+      "type": "number",
+      "correctAnswer": 90,
+      "hint": "450 ÷ 5 = ?",
+      "points": 15
+    },
+    {
+      "id": 66,
+      "unit": 8,
+      "category": "Algoritmo da Divisão",
+      "question": "Divisão com Resto (Algoritmo): Calcule: 257 ÷ 2 = ? Qual é o quociente?",
+      "type": "number",
+      "correctAnswer": 128,
+      "hint": "257 ÷ 2 = 128 resto 1",
+      "points": 15
+    },
+    {
+      "id": 67,
+      "unit": 8,
+      "category": "Algoritmo da Divisão",
+      "question": "O Desafio do Esquadrão: Um total de 840 pontos de experiência (XP) foi dividido igualmente entre 4 jogadores. Quanto XP cada um ganhou?",
+      "type": "number",
+      "correctAnswer": 210,
+      "hint": "840 ÷ 4 = ?",
+      "points": 15
+    },
+    {
+      "id": 68,
+      "unit": 8,
+      "category": "Algoritmo da Divisão",
+      "question": "O Custo da Vitória: Uma equipe de 6 pessoas gastou 732 V-Bucks em um presente. Se o custo foi dividido igualmente, quanto cada um pagou?",
+      "type": "number",
+      "correctAnswer": 122,
+      "hint": "732 ÷ 6 = ?",
+      "points": 15
+    },
+    {
+      "id": 69,
+      "unit": 8,
+      "category": "Algoritmo da Divisão",
+      "question": "Divisão por 6: Calcule: 618 ÷ 6 = ?",
+      "type": "number",
+      "correctAnswer": 103,
+      "points": 15
+    },
+    {
+      "id": 70,
+      "unit": 8,
+      "category": "Algoritmo da Divisão",
+      "question": "O Desafio Final: Calcule: 999 ÷ 9 = ?",
+      "type": "number",
+      "correctAnswer": 111,
+      "points": 15
+    },
+    {
+      "id": 71,
+      "unit": 9,
+      "category": "Horas, Minutos e Segundos",
+      "question": "O Início da Partida: A partida começou às 14h30. Se a zona segura começa a fechar 5 minutos depois, a que horas a zona começa a fechar?",
+      "type": "multiple",
+      "options": [
+        "14h25",
+        "14h35",
+        "14h40",
+        "15h00"
+      ],
+      "correctAnswer": 1,
+      "points": 10
+    },
+    {
+      "id": 72,
+      "unit": 9,
+      "category": "Horas, Minutos e Segundos",
+      "question": "O Tempo de Coleta: Você passou 15 minutos coletando recursos. Quantos segundos são 15 minutos? (1 minuto = 60 segundos)",
+      "type": "number",
+      "correctAnswer": 900,
+      "hint": "15 x 60 = ?",
+      "points": 15
+    },
+    {
+      "id": 73,
+      "unit": 9,
+      "category": "Horas, Minutos e Segundos",
+      "question": "O Relógio Analógico: Se o ponteiro pequeno do relógio está no 3 e o ponteiro grande está no 12, que horas são?",
+      "type": "multiple",
+      "options": [
+        "2 horas",
+        "3 horas",
+        "12 horas",
+        "30 minutos"
+      ],
+      "correctAnswer": 1,
+      "points": 10
+    },
+    {
+      "id": 74,
+      "unit": 9,
+      "category": "Horas, Minutos e Segundos",
+      "question": "O Relógio Digital: Se o relógio digital mostra 18:45, que horas são no formato de 12 horas (tarde/noite)?",
+      "type": "multiple",
+      "options": [
+        "6:45 da manhã",
+        "6:45 da tarde",
+        "8:45 da noite",
+        "18:45 da noite"
+      ],
+      "correctAnswer": 1,
+      "points": 10
+    },
+    {
+      "id": 75,
+      "unit": 9,
+      "category": "Horas, Minutos e Segundos",
+      "question": "Meia Hora: Quanto tempo é meia hora em minutos?",
+      "type": "number",
+      "correctAnswer": 30,
+      "points": 10
+    },
+    {
+      "id": 76,
+      "unit": 9,
+      "category": "Horas, Minutos e Segundos",
+      "question": "O Tempo de Espera: Você esperou 1 hora e 10 minutos para o evento especial. Quantos minutos você esperou no total?",
+      "type": "number",
+      "correctAnswer": 70,
+      "hint": "60 + 10 = ?",
+      "points": 15
+    },
+    {
+      "id": 77,
+      "unit": 9,
+      "category": "Horas, Minutos e Segundos",
+      "question": "A Tempestade: A tempestade leva 3 minutos e 30 segundos para fechar. Quantos segundos são no total?",
+      "type": "number",
+      "correctAnswer": 210,
+      "hint": "(3 x 60) + 30 = ?",
+      "points": 15
+    },
+    {
+      "id": 78,
+      "unit": 9,
+      "category": "Horas, Minutos e Segundos",
+      "question": "O Tempo de Jogo: Você jogou por 2 horas. Quantos minutos você jogou?",
+      "type": "number",
+      "correctAnswer": 120,
+      "hint": "2 x 60 = ?",
+      "points": 15
+    },
+    {
+      "id": 79,
+      "unit": 9,
+      "category": "Calendário",
+      "question": "Dias da Semana: A nova temporada começa em uma terça-feira. Qual dia da semana é o dia seguinte?",
+      "type": "multiple",
+      "options": [
+        "Segunda-feira",
+        "Quarta-feira",
+        "Quinta-feira",
+        "Sexta-feira"
+      ],
+      "correctAnswer": 1,
+      "points": 10
+    },
+    {
+      "id": 80,
+      "unit": 9,
+      "category": "Calendário",
+      "question": "Meses do Ano: Qual é o 7º mês do ano?",
+      "type": "multiple",
+      "options": [
+        "Junho",
+        "Julho",
+        "Agosto",
+        "Setembro"
+      ],
+      "correctAnswer": 1,
+      "points": 10
+    },
+    {
+      "id": 81,
+      "unit": 9,
+      "category": "Calendário",
+      "question": "O Aniversário do Jogo: O aniversário do Fortnite é em julho. Quantos dias tem o mês de julho?",
+      "type": "number",
+      "correctAnswer": 31,
+      "points": 10
+    },
+    {
+      "id": 82,
+      "unit": 9,
+      "category": "Calendário",
+      "question": "O Ano Bissexto: O ano de 2024 foi bissexto. Quantos dias ele teve?",
+      "type": "number",
+      "correctAnswer": 366,
+      "points": 10
+    },
+    {
+      "id": 83,
+      "unit": 9,
+      "category": "Calendário",
+      "question": "Semanas: Quantos dias há em 4 semanas?",
+      "type": "number",
+      "correctAnswer": 28,
+      "hint": "4 x 7 = ?",
+      "points": 15
+    },
+    {
+      "id": 84,
+      "unit": 9,
+      "category": "Calendário",
+      "question": "O Evento: Um evento especial dura 3 dias. Se ele começa na sexta-feira, em qual dia da semana ele termina?",
+      "type": "multiple",
+      "options": [
+        "Sábado",
+        "Domingo",
+        "Segunda-feira",
+        "Terça-feira"
+      ],
+      "correctAnswer": 1,
+      "points": 10
+    },
+    {
+      "id": 85,
+      "unit": 9,
+      "category": "Calendário",
+      "question": "O Mês Anterior: Se estamos em setembro, qual foi o mês anterior?",
+      "type": "multiple",
+      "options": [
+        "Julho",
+        "Agosto",
+        "Outubro",
+        "Junho"
+      ],
+      "correctAnswer": 1,
+      "points": 10
+    },
+    {
+      "id": 86,
+      "unit": 9,
+      "category": "Calendário",
+      "question": "O Próximo Ano: Se o ano atual é 2025, qual será o próximo ano?",
+      "type": "number",
+      "correctAnswer": 2026,
+      "points": 10
+    },
+    {
+      "id": 87,
+      "unit": 9,
+      "category": "Intervalo de Tempo",
+      "question": "Duração da Partida: Você começou a jogar às 15h00 e terminou a partida às 15h45. Quanto tempo durou a partida?",
+      "type": "number",
+      "correctAnswer": 45,
+      "hint": "15h45 - 15h00 = ?",
+      "points": 15
+    },
+    {
+      "id": 88,
+      "unit": 9,
+      "category": "Intervalo de Tempo",
+      "question": "O Tempo de Construção: Você levou 8 minutos para construir sua base. Se você começou às 10h10, a que horas você terminou?",
+      "type": "multiple",
+      "options": [
+        "10h08",
+        "10h18",
+        "10h20",
+        "10h30"
+      ],
+      "correctAnswer": 1,
+      "points": 10
+    },
+    {
+      "id": 89,
+      "unit": 9,
+      "category": "Intervalo de Tempo",
+      "question": "O Intervalo: Você tem um intervalo de 20 minutos entre as partidas. Se o intervalo começou às 17h35, a que horas ele termina?",
+      "type": "multiple",
+      "options": [
+        "17h45",
+        "17h55",
+        "18h00",
+        "18h05"
+      ],
+      "correctAnswer": 1,
+      "points": 10
+    },
+    {
+      "id": 90,
+      "unit": 9,
+      "category": "Intervalo de Tempo",
+      "question": "A Espera: Você precisa esperar 2 horas e 30 minutos para o novo modo de jogo. Se agora são 19h00, a que horas o modo de jogo será lançado?",
+      "type": "multiple",
+      "options": [
+        "20h30",
+        "21h00",
+        "21h30",
+        "22h00"
+      ],
+      "correctAnswer": 2,
+      "points": 10
+    },
+    {
+      "id": 91,
+      "unit": 9,
+      "category": "Intervalo de Tempo",
+      "question": "O Desafio do Minuto: Você precisa sobreviver por 600 segundos na zona segura. Quantos minutos são 600 segundos?",
+      "type": "number",
+      "correctAnswer": 10,
+      "hint": "600 ÷ 60 = ?",
+      "points": 15
+    },
+    {
+      "id": 92,
+      "unit": 9,
+      "category": "Intervalo de Tempo",
+      "question": "O Tempo de Viagem: Leva 12 minutos para ir de Tilted Towers até Pleasant Park. Se você saiu às 11h50, a que horas você chega?",
+      "type": "multiple",
+      "options": [
+        "12h00",
+        "12h02",
+        "12h10",
+        "12h15"
+      ],
+      "correctAnswer": 0,
+      "points": 10
+    },
+    {
+      "id": 93,
+      "unit": 9,
+      "category": "Intervalo de Tempo",
+      "question": "O Recorde: Seu recorde de sobrevivência é de 23 minutos e 40 segundos. Seu amigo sobreviveu por 25 minutos e 10 segundos. Qual é a diferença de tempo entre os dois recordes?",
+      "type": "multiple",
+      "options": [
+        "1 minuto e 30 segundos",
+        "1 minuto e 40 segundos",
+        "2 minutos",
+        "2 minutos e 30 segundos"
+      ],
+      "correctAnswer": 0,
+      "points": 15
+    },
+    {
+      "id": 94,
+      "unit": 9,
+      "category": "Intervalo de Tempo",
+      "question": "O Desafio Final de Tempo: Se a partida final durar 18 minutos, e você quer jogar 5 partidas seguidas, quanto tempo total você passará jogando?",
+      "type": "number",
+      "correctAnswer": 90,
+      "hint": "18 x 5 = ?",
+      "points": 15
+    },
+    {
+      "id": 95,
+      "unit": 6,
+      "category": "Simetria",
+      "question": "Metade do Escudo: Se você dividir um círculo (Poção de Escudo) ao meio, cada metade é um espelho da outra? Qual é o nome dessa propriedade?",
+      "type": "multiple",
+      "options": [
+        "Assimetria",
+        "Simetria",
+        "Rotação",
+        "Translação"
+      ],
+      "correctAnswer": 1,
+      "points": 10
+    },
+    {
+      "id": 96,
+      "unit": 6,
+      "category": "Simetria",
+      "question": "Assimetria: Dê um exemplo de um objeto do Fortnite que é assimétrico (não tem simetria).",
+      "type": "multiple",
+      "options": [
+        "Uma arma caída no chão",
+        "Um quadrado",
+        "Um círculo",
+        "Uma moeda"
+      ],
+      "correctAnswer": 0,
+      "points": 10
+    },
+    {
+      "id": 97,
+      "unit": 7,
+      "category": "Multiplicação - Adição de Parcelas Iguais",
+      "question": "Bonus: Você completou 96 exercícios! Quantos exercícios faltam para chegar a 100?",
+      "type": "number",
+      "correctAnswer": 4,
+      "hint": "100 - 96 = ?",
+      "points": 20
+    },
+    {
+      "id": 98,
+      "unit": 8,
+      "category": "Divisão - Repartir Igualmente",
+      "question": "Bonus: Você tem 100 V-Bucks e quer dividir entre 5 amigos. Quanto cada amigo recebe?",
+      "type": "number",
+      "correctAnswer": 20,
+      "hint": "100 ÷ 5 = ?",
+      "points": 20
+    },
+    {
+      "id": 99,
+      "unit": 9,
+      "category": "Intervalo de Tempo",
+      "question": "Bonus: Se você começou a jogar às 14h00 e jogou por 3 horas, a que horas você parou?",
+      "type": "number",
+      "correctAnswer": 17,
+      "hint": "14 + 3 = ?",
+      "points": 20
+    },
+    {
+      "id": 100,
+      "unit": 6,
+      "category": "Figuras Planas",
+      "question": "O Ponto de Pouso: Marque um ponto no mapa. O que um ponto representa em Geometria?",
+      "type": "multiple",
+      "options": [
+        "Uma linha",
+        "Uma localização exata, sem dimensão",
+        "Um ângulo",
+        "Uma forma"
+      ],
+      "correctAnswer": 1,
+      "points": 10
+    }
+  ]
+}
